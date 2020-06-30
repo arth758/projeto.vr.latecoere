@@ -1,29 +1,24 @@
-# template-vue
+# Projeto-VR
 
-## Project setup
-```
-npm install
-```
+-   Projeto para exibição de peças de avião em 3d
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+-   Principais dependências utilizadas:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+    -   Front:
+        -   Vue JS (UI)
+        -   vue-3d-model (Exibição das peças gltf)
+    -   Back:
+        -   Express (API)
+    -   axios (Comunicação Front-Back)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-   Para iniciar a aplicação:
+    -   Front:
+        ```
+        cd client
+        npm run serve
+        ```
+    -   Back:
+        ```
+        cd server
+        npm start
+        ```
