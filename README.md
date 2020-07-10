@@ -22,3 +22,12 @@
         cd server
         npm start
         ```
+
+Professor Giuliano Araujo
+Membros:
+    Arthur Braga Reis
+    Adan Portes
+    Breno Moura
+    Marcos Alexandre
+    
+Laboratório de Desenvolvimento III
