@@ -1,5 +1,7 @@
 # Projeto-VR
 
+## Laboratório de Desenvolvimento III - Professor Giuliano Araujo
+
 -   Projeto para exibição de peças de avião em 3d
 
 -   Principais dependências utilizadas:
@@ -12,6 +14,7 @@
     -   axios (Comunicação Front-Back)
 
 -   Para iniciar a aplicação:
+
     -   Front:
         ```
         cd client
@@ -23,11 +26,8 @@
         npm start
         ```
 
-Professor Giuliano Araujo
-Membros:
-    Arthur Braga Reis
-    Adan Portes
-    Breno Moura
-    Marcos Alexandre
-    
-Laboratório de Desenvolvimento III
+-   Membros:
+    -   Arthur Braga Reis
+    -   Adan Portes
+    -   Breno Moura
+    -   Marcos Alexandre
